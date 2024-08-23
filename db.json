@@ -1,0 +1,77 @@
+{
+    "1": {
+        "image": "assets/images/image1.jpg",
+        "name": "Red Apple",
+        "price": 4.0
+    },
+    "2": {
+        "name": "Pineapple",
+        "image": "assets/images/image2.jpg",
+        "price": 13.5
+    },
+    "3": {
+        "image": "assets/images/image3.jpg",
+        "name": "Banana",
+        "price": 5.0
+    },
+    "4": {
+        "image": "assets/images/image4.jpg",
+        "name": "Watermelon",
+        "price": 15.0
+    },
+    "5": {
+        "name": "Avocado",
+        "image": "assets/images/image5.jpg",
+        "price": 7.0
+    },
+    "6": {
+        "name": "Cucumber",
+        "image": "assets/images/image6.jpg",
+        "price": 2.0
+    },
+    "7": {
+        "name": "Tomato",
+        "image": "assets/images/image7.jpg",
+        "price": 5.0
+    },
+    "8": {
+        "name": "Onion",
+        "image": "assets/images/image8.jpg",
+        "price": 7.0
+    },
+    "9": {
+        "name": "Jerusalem Artichoke",
+        "image": "assets/images/image9.jpg",
+        "price": 17.5
+    },
+    "10": {
+        "name": "Lemon",
+        "image": "assets/images/image10.jpg",
+        "price": 10.0
+    },
+    "11": {
+        "name": "Asparagus",
+        "image": "assets/images/image11.jpg",
+        "price": 12.5
+    },
+    "12": {
+        "name": "Garlic",
+        "image": "assets/images/image12.jpg",
+        "price": 4.5
+    },
+    "13": {
+        "name": "Passiflora",
+        "image": "assets/images/image13.jpg",
+        "price": 6.5
+    },
+    "14": {
+        "name": "Olives",
+        "image": "assets/images/image14.jpg",
+        "price": 3.3
+    },
+    "15": {
+        "name": "Butternut Squash",
+        "image": "assets/images/image15.jpg",
+        "price": 12.5
+    }
+}
